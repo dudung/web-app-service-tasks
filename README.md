@@ -16,4 +16,5 @@ Additional tasks for Web Applications and Services course
 + Comments and suggestions &rightarrow; https://github.com/dudung/web-app-service-tasks/issues/12
 
 ## notes
-+ If you have already done it, just copy and paste from https://github.com/dudung/lecture-notes/issues?q=is%3Aissue+is%3Aclosed but only your previous answers.
++ If you have already done it, just copy and paste you previous answers.
++ Previous issues are available on https://github.com/dudung/lecture-notes/issues?q=is%3Aissue+is%3Aclosed.
